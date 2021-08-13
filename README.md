@@ -48,8 +48,8 @@ The root directory is named `MSc-Amazon-Record-Linkage`.
 ├── notebooks          <- Contains all .ipynb notebooks from Google Colab,
 │                         and a single .Rmd notebook for text mining EDA.
 │
-├── report             <- Unused since report was written online on Overleaf.
-│   └── plots          <- Generated graphics and figures used in report.
+└── report             <- Unused since report was written online on Overleaf.
+    └── plots          <- Generated graphics and figures used in report.
 ```
 
 # Explanation for running code
