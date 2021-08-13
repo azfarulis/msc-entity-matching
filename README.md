@@ -22,17 +22,17 @@ Matching publication records from different sources
 The root directory is named `MSc-Amazon-Record-Linkage`.
 
 ```
-├── README.md          <- This file
+├── README_FIRST.md    <- This file
 ├── data
 │   ├── raw            <- Original data as provided.
 │   ├── interim        <- Any interim transformations performed;
 │   │                     Also contains HTML files from pandas_profiling.
 │   ├── processed      <- Final, processed file(s) after cleansing
-│   │                     and transformation; also contains train, test,
-│   │                     validation split CSVs used by all models.
+│   │   │                 and transformation; also contains train, test,
+│   │   │                 validation split CSVs used by all models.
 │   │   └── ...al_test <- Nested under DBLP_Scholar > active_learning,
 │   │                     due to some early experiments, became the directory
-│   │                     for all Active Learning models (TODO: future fix).
+│   │                     for all Active Learning models (TODO: fix).
 │   └── cached_data    <- Unused. Intention was to store downloaded fastText
 │                         files, which are now stored elsewhere.
 │
