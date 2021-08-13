@@ -123,6 +123,6 @@ data sets.
 Deep Transfer Active Learning.
 
 Finally, a large amount of old ''boilerplate'' code can be found in the
-appropriately named section. Some of it is has been superceded, and there are a
+appropriately named section. Most of it has been superceded, and there are a
 few useful items in there. Personally, this could be safely deleted now that we
 are at the end of the project.
